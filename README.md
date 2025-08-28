@@ -1,10 +1,10 @@
 <!-- HERO -->
 <p align="center">
-    <img src="https://github.com/hypynnax/hypynnax/blob/8900136e8fa3d7a3f620dccaafad7d2de166c93e/Hero.png" alt="Hero Picture"/>
+    <img src="https://github.com/hypynnax/hypynnax/blob/be3e886d09c550bd6ac0013d1d37833474887925/Hero.png" alt="Hero Picture"/>
 </p>
 
 <p align="center">
-    <img src="https://github.com/hypynnax/hypynnax/blob/48c08b385744d7dfceb847e00ec669af60b26d8b/Hero%20Title.png" alt="Hero Title"/>
+    <img src="https://github.com/hypynnax/hypynnax/blob/be3e886d09c550bd6ac0013d1d37833474887925/Hero%20Title.png" alt="Hero Title"/>
 </p>
 
 <hr>
@@ -19,7 +19,7 @@
 <table>
     <tr>
         <!-- Sol taraf: İkon + Yazılar -->
-        <td width="55%" valign="top">
+        <td width="50%" valign="top">
             <p>
                <img src="https://img.icons8.com/color/26/000000/source-code.png" style="margin-right:8px;"/>
                <b>Began with Java</b> — Yazılım yolculuğuma Java dili ile başladım.
@@ -42,8 +42,8 @@
             </p>
         </td>
         <!-- Sağ taraf: Resim -->
-        <td width="45%" align="center">
-            <img src="https://github.com/hypynnax/hypynnax/blob/8900136e8fa3d7a3f620dccaafad7d2de166c93e/About.gif" width="90%" alt="About Picture"/>
+        <td width="50%" align="center">
+            <img src="https://github.com/hypynnax/hypynnax/blob/be3e886d09c550bd6ac0013d1d37833474887925/About.gif" width="90%" alt="About Picture"/>
         </td>
     </tr>
 </table>
@@ -146,7 +146,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/hypynnax/hypynnax/blob/8900136e8fa3d7a3f620dccaafad7d2de166c93e/Footer.gif" alt="Footer"/>
+    <img src="https://github.com/hypynnax/hypynnax/blob/be3e886d09c550bd6ac0013d1d37833474887925/Footer.gif" alt="Footer"/>
 </p>
 
 <h1 align="center">Come On Fight Me!</h1>
