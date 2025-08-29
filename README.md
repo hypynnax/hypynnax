@@ -3,11 +3,9 @@
     <img src="https://github.com/hypynnax/hypynnax/blob/be3e886d09c550bd6ac0013d1d37833474887925/Hero.png" alt="Hero Picture"/>
 </p>
 
-<p align="center">
-    <img src="https://github.com/hypynnax/hypynnax/blob/be3e886d09c550bd6ac0013d1d37833474887925/Hero%20Title.png" alt="Hero Title"/>
-</p>
-
-<hr>
+<h1 align="center">
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=HYPYNNAX+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>
+</h1>
 
 <h3 align="center">Namaste 🙏 I'm Nurullah KARA</h3>
 
@@ -16,37 +14,34 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hypynnax&label=%3C/%3E%20Profile%20Views&color=8A2BE2&style=flat)
 
-<table>
-    <tr>
-        <!-- Sol taraf: İkon + Yazılar -->
-        <td width="50%" valign="top">
-            <p>
-               <img src="https://img.icons8.com/color/26/000000/source-code.png" style="margin-right:8px;"/>
-               <b>Began with Java</b> — Yazılım yolculuğuma Java dili ile başladım.
-            </p>
-            <p>
-               <img src="https://img.icons8.com/color/26/000000/python.png" style="margin-right:8px;"/>
-               <b>Learned Python</b> — Veri analizi, yapay zeka ve görüntü işleme projeleri geliştirdim.
-            </p>
-            <p>
-               <img src="https://img.icons8.com/color/26/000000/javascript.png" style="margin-right:8px;"/>
-               <b>Dived into JavaScript</b> — Web geliştirmeye adım attım, dinamik siteler oluşturdum.
-            </p>
-            <p>
-               <img src="https://img.icons8.com/color/26/000000/react-native.png" style="margin-right:8px;"/>
-               <b>Currently focusing on Next.js & Tailwind CSS</b> — Modern web uygulamaları geliştiriyorum.
-            </p>
-            <p>
-               <img src="https://img.icons8.com/color/26/000000/project.png" style="margin-right:8px;"/>
-               <b>Projects</b> — Portföy web sitem, AI denemeleri ve web uygulamaları üzerinde çalıştım.
-            </p>
-        </td>
-        <!-- Sağ taraf: Resim -->
-        <td width="50%" align="center">
-            <img src="https://github.com/hypynnax/hypynnax/blob/be3e886d09c550bd6ac0013d1d37833474887925/About.gif" width="90%" alt="About Picture"/>
-        </td>
-    </tr>
-</table>
+<!-- Sağ taraf: Resim -->
+<img align="right" width="45%" src="https://github.com/hypynnax/hypynnax/blob/be3e886d09c550bd6ac0013d1d37833474887925/About.gif" alt="About Picture"/>
+
+<!-- Sol taraf: İkon + Yazılar -->
+<p align=left width="45%">
+    <p>
+        <img src="https://img.icons8.com/color/26/000000/source-code.png" style="margin-right:8px;"/>
+        <b>Began with Java</b> — Yazılım yolculuğuma Java dili ile başladım.
+    </p>
+    <p>
+        <img src="https://img.icons8.com/color/26/000000/python.png" style="margin-right:8px;"/>
+        <b>Learned Python</b> — Veri analizi, yapay zeka ve görüntü işleme projeleri geliştirdim.
+    </p>
+    <p>
+        <img src="https://img.icons8.com/color/26/000000/javascript.png" style="margin-right:8px;"/>
+        <b>Dived into JavaScript</b> — Web geliştirmeye adım attım, dinamik siteler oluşturdum.
+    </p>
+    <p>
+        <img src="https://img.icons8.com/color/26/000000/react-native.png" style="margin-right:8px;"/>
+        <b>Currently focusing on Next.js & Tailwind CSS</b> — Modern web uygulamaları geliştiriyorum.
+    </p>
+    <p>
+        <img src="https://img.icons8.com/color/26/000000/project.png" style="margin-right:8px;"/>
+        <b>Projects</b> — Portföy web sitem, AI denemeleri ve web uygulamaları üzerinde çalıştım.
+    </p>
+</p>
+
+<br/>
 
 <p align="right">🌟 Follow Me on:</p>
 
@@ -131,6 +126,14 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
+<!-- GİTHUB SOCİAL -->
+<h2 align="center">⭐ Top Contributed Repoㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ✍️ Random Dev Quote</h2>
+
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=hypynnax&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="575" height="550"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" width="350" height="320"/>
+</p>
+
 <!-- SUPPORT ME -->
 <h2 align="center">Support Me 💰</h2>
 
@@ -142,7 +145,7 @@
 
 <!-- FOOTER -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 </p>
 
 <p align="center">
